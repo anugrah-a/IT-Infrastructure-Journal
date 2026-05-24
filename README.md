@@ -1,6 +1,6 @@
 # IT Operations & Infrastructure Journal 🚀
 
-Personal knowledge base documenting real-world infrastructure administration, troubleshooting, system configurations, and operational learnings from production and lab environments.
+Personal knowledge base documenting real-world infrastructure administration, troubleshooting, system configurations, and operational learnings from production environments.
 
 This repository is maintained as part of my continuous learning journey in:
 
