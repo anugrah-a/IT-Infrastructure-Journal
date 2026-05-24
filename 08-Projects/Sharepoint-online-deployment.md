@@ -274,19 +274,7 @@ Performed testing after deployment:
 - Breaking inheritance unnecessarily
 - Ignoring future scalability requirements
 
----
 
-
-# Related Concepts
-
-- SharePoint Online
-- Microsoft 365 Administration
-- Document Management
-- OneDrive Migration
-- Permission Inheritance
-- RBAC (Role-Based Access Control)
-- Collaboration Platforms
-- Information Organization
 
 ---
 
