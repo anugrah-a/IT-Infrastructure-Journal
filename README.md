@@ -1,83 +1,38 @@
-# IT infrastructure Journal 🚀
+# IT Operations & Infrastructure Journal 🚀
 
-This repository contains my personal documentation of real-world IT infrastructure tasks, troubleshooting cases, configuration changes, and technical learnings.
+Personal knowledge base documenting real-world infrastructure administration, troubleshooting, system configurations, and operational learnings from production and lab environments.
 
-The purpose of this repo is:
-- To build structured technical knowledge
-- To improve troubleshooting skills
-- To track practical experience
-- To prepare for system administration & cloud roles
+This repository is maintained as part of my continuous learning journey in:
 
-> ⚠️ Note: All documentation is anonymized. No company-sensitive data is included.
-
----
-
-## 🧩 Documentation Format
-
-Each task includes:
-
-- Purpose
-- Environment
-- Steps Performed
-- Validation
-- Rollback Plan
-- Common Mistakes
-- Lessons Learned
-
-Each issue includes:
-
-- Problem Summary
-- Root Cause
-- Troubleshooting Steps
-- Final Fix
-- Key Learning Points
-
----
-
-## 🛠 Technologies Covered
-
-- Windows Server
-- Active Directory
-- DNS / DHCP
-- Group Policy
-- Microsoft Exchange
-- Firewall & VPN
-- Backup & Recovery
-- Remote Support Tools
-
----
-
-## 📈 Learning Goals
-
-- Improve production-level troubleshooting
-- Strengthen system administration fundamentals
-- Build documentation discipline
-- Prepare for advanced roles (System Admin / Cloud / DevOps)
-
----
-
-## 📝 Example Topics Documented
-
-- Active Directory user creation & management
-- GPO configuration changes
-- Exchange mailbox provisioning
-- DNS troubleshooting
-- Server performance issue analysis
-- Remote access configuration
-- Backup verification process
-
----
-
-## 📬 Author
-
-Maintained as a personal technical growth journal.
-
-## About Me
-
-IT infrastructure engineer with hands-on experience in:
 - Windows Server Administration
 - Active Directory & Group Policy
-- Exchange Management
-- Network Troubleshooting
+- VMware Virtualization
+- Microsoft Exchange
+- Backup & Disaster Recovery
+- Networking & Security
+- Endpoint Troubleshooting
+- Microsoft 365 & Hybrid Identity
 
-This repository reflects structured documentation of practical exposure.
+> ⚠️ All documentation is anonymized. No sensitive company or client information is included.
+
+---
+
+# 👨‍💻 About Me
+
+Infrastructure Engineer with hands-on experience managing Windows-based infrastructure in MSP environments.
+
+Currently working with:
+
+- VMware ESXi
+- Active Directory
+- Microsoft Exchange
+- Veeam Backup & Replication
+- Microsoft Entra ID / Microsoft 365
+- Sophos Firewall & VPN
+- Remote Desktop Services (RDS)
+
+Currently pursuing:
+- Microsoft Azure Administrator (AZ-104)
+
+---
+
