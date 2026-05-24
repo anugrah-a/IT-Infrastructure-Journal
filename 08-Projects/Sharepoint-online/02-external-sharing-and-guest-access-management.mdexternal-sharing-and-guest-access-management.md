@@ -18,7 +18,7 @@ The implementation included:
 
 - Platform: SharePoint Online
 - Microsoft 365 Environment
-- Role: Infrastructure Engineer / IT Support Intern
+- Role: Infrastructure Engineer
 
 ---
 

@@ -6,7 +6,7 @@ Create a new shared mailbox in Exchange and assign required user permissions (Fu
 ---
 
 ## Environment
-- Environment Type: Production / Lab
+- Environment Type: Production
 - Directory Service: Active Directory
 - Mail System: Microsoft Exchange
 - Server OS: Windows Server 2019

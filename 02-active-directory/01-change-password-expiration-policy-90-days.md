@@ -6,7 +6,7 @@ Modified the domain password policy to set maximum password age to 90 days and v
 ---
 
 ## Environment
-- Environment Type: Production / Lab
+- Environment Type: Production
 - Directory Service: Active Directory
 - Server OS: Windows Server 2019
 
