@@ -1,6 +1,6 @@
-# IT Support Learning Journal 🚀
+# IT infrastructure Journal 🚀
 
-This repository contains my personal documentation of real-world IT support tasks, troubleshooting cases, configuration changes, and technical learnings.
+This repository contains my personal documentation of real-world IT infrastructure tasks, troubleshooting cases, configuration changes, and technical learnings.
 
 The purpose of this repo is:
 - To build structured technical knowledge
@@ -74,7 +74,7 @@ Maintained as a personal technical growth journal.
 
 ## About Me
 
-IT Support Intern with hands-on experience in:
+IT infrastructure engineer with hands-on experience in:
 - Windows Server Administration
 - Active Directory & Group Policy
 - Exchange Management
